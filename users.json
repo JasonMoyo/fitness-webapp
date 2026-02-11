@@ -1,0 +1,53 @@
+{
+
+    "Jasonmoyo@gmail.com": {
+        "password": "$2y$10$JbcMNSGu\/yXcoRsOvtE8iewm7jz9\/EMu6ckIRAztBGPiMreA.Mijy",
+        "goal": "Strength Training",
+        "experience": "Intermediate"
+    },
+    "Jasonm@gmail.com": {
+        "password": "$2y$10$sJnoRyI6\/YTuKNkLdOJEA.kXDGPL6xMqwoxdRdVNyh2KHaIucuXd2",
+        "goal": "Weight Loss",
+        "experience": "Beginner"
+    },
+    "nkanyezi8@gmail.com": {
+        "password": "$2y$10$zh6LZYYUA3rvDOmv.bRTW.H.wEzmj3FmiUR1rxjAXeXJ447xKzYvm",
+        "goal": "Weight Loss",
+        "experience": "Beginner"
+    },
+    "raju@gmail.com": {
+        "password": "$2y$10$93J76pykZeQSqhvJi4I89u4UZtF14PGnPcDis1gFfFypqpcg9QkD.",
+        "goal": "Weight Loss",
+        "experience": "Beginner"
+    },
+    "raju4@gmail.com": {
+        "password": "$2y$10$5x0hw4gBuu9s0MUNSA6.\/enZp20Av7tCmG5SGBuAQau61VViCj5GO",
+        "goal": "Weight Loss",
+        "experience": "Beginner"
+    },
+    "raju84@gmail.com": {
+        "password": "$2y$10$PB75abQa5jWeSlp8AaS7UeVsnPliC0cdVk39pyH3wByrGTsMUaVMe",
+        "goal": "Weight Loss",
+        "experience": "Beginner"
+    },
+    "raju55@gmail.com": {
+        "password": "$2y$10$zRAknKgVPsAYamkBxLQ3JeDU0uNIXO8GDueE4v5IdQia5Fr7fKNTW",
+        "goal": "Weight Loss",
+        "experience": "Beginner"
+    },
+    "abigail@gmail.com": {
+        "password": "$2y$10$7xs.pNAhPjWVAuhcyQfQ0eCeVloUTmTA66QA.sD4vgbrIg3MQG3eu",
+        "goal": "Endurance",
+        "experience": "Intermediate"
+    },
+    "nkanyezi98@gmail.com": {
+        "password": "$2y$10$c8z9FziizApqcLhysbCStuL1RDrDZuvcUQFxz8NrNEfMqyv9Z8ZTW",
+        "goal": "Weight Loss",
+        "experience": "Advanced"
+    },
+    "abigail0@gmail.com": {
+        "password": "$2y$10$xih\/k.JibLsgRz.aei2KBONS4cIRzYCw.8O5wsnIBiw\/fbK7x21hu",
+        "goal": "Muscle Gain",
+        "experience": "Beginner"
+    }
+}

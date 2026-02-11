@@ -1,0 +1,24 @@
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE files
+.vscode/
+.idea/
+*.swo
+*.swp
+
+# Temporary files
+*.log
+*.tmp
+*.temp
+test_output.txt
+
+# Document files (optional)
+*.docx
+*.pdf
+
+# Local config (if you add later)
+config.local.php
+.env
